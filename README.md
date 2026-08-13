@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains a custom command-line interpreter (CLI) implemented in C++, developed as a coursework project for the Object-Oriented Programming course at the School of Electrical Engineering, University of Belgrade (academic year 2025/26).
+This repository contains a custom command-line interpreter (CLI) implemented in C++, developed as a coursework project for the Object-Oriented Programming course at the School of Electrical Engineering, University of Belgrade (academic year 2024/25).
 
 The interpreter reads commands from standard input (or from a batch file) and executes them one by one, supporting argument parsing, quoted string arguments, input/output redirection, pipes between commands, and custom error reporting with precise error-location markers.
 
